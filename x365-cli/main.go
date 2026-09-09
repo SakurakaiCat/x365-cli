@@ -1,4 +1,4 @@
-// Command x365 authenticates against the 365VPN API, downloads the node
+// Command x365 performs account login, downloads the node
 // configuration and extracts x365:// node links.
 //
 // Protocol:

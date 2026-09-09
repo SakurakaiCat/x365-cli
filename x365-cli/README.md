@@ -1,7 +1,7 @@
 # x365-cli
 
-A minimal Go client for the 365VPN API: logs in with a 365VPN account and
-extracts `x365://` node links — no GUI required.
+A minimal Go client: account login and
+export of `x365://` node links — no GUI required.
 
 ## Protocol summary
 
