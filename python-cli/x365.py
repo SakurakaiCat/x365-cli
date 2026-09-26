@@ -18,7 +18,7 @@ CORE_VERSION = "26.1.30"
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _PUBKEY_PATH = os.path.join(_HERE, "server_pubkey.pem")
-_PRIVKEY_PATH = os.path.join(_HERE, "..", "cmd", "x365-cli", "rsa_private_key.pem")
+_PRIVKEY_PATH = os.path.join(_HERE, "..", "x365-cli", "rsa_private_key.pem")
 
 
 def _http(method, url, body=None, headers=None, timeout=20):
