@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../assets/open-x365.svg" alt="Open X365" width="460">
+</div>
+
 # x365-cli
 
 A minimal Go client: account login and
